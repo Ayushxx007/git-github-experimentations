@@ -1,0 +1,1 @@
+document.getWElementById("h1").innerHTML = "MaHIKA!";
